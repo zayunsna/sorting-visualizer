@@ -6,7 +6,7 @@ Written in Python with pygame.
 ![Insertion sort in progress: the left part of the bars is already sorted, the right part is not yet](docs/screenshot.png)
 
 Blog post with explanations and measured comparison counts:
-[Sorting algorithms, visualized in Python](https://zayunsna.github.io/blog/2026-10-12-sorting_algorithms_visualized/)
+[Sorting algorithms, visualized in Python](https://zayunsna.github.io/blog/2026-10-07-sorting_algorithms_visualized/)
 
 ## Run it
 
